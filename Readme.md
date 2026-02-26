@@ -40,3 +40,6 @@ Pasta com o conteúdo prático, incluindo notebooks Python e exercícios.
 Pasta com o conteúdo teórico e materiais de suporte ao curso.
 
 Este repositório será atualizado ao longo do curso conforme novos conteúdos forem disponibilizados.
+
+
+>>> Para instalar IDE : https://github.com/zuilpirola/AdvandedDS/blob/main/doc/Pycharm-Setup-pt.md
