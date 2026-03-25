@@ -16,7 +16,7 @@ Avaliação contínua:
 | Mini-quiz 1      | 10%            | 18/03 |
 | Mini-quiz 2      | 15%            | 15/04 |
 | Mini-quiz 3      | 15%            | 13/05 |
-| Projeto de grupo | 60%            | 05/05 |
+| Projeto de grupo | 60%            | 05/06 |
 
 Avaliação por exame:
 
